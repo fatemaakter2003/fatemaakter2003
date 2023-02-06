@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Fatema Akter</h1>
 <h3 align="center">I am gaining experience to become an android developer.</h3>
